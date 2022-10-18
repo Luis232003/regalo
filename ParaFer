@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title> Quisieras volver a intentar crear una linda relacion sana?</title>
+  <link rel="stylesheet" href="./css/index.css" />
+  <link rel="shortcut icon"
+    href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_corazón.svg/1200px-Heart_corazón.svg.png"
+    type="image/x-icon">
+</head>
+<body class="body">
+  <article class="hero">
+    <h1 class="hero__title">Podemos crear una linda volver a intentar tener una linda relación sana?</h1>
+    <figure class="hero__image-container">
+      <img
+        src="https://scontent.fgye3-1.fna.fbcdn.net/v/t39.30808-1/297934614_594833808885835_5222148234103695485_n.jpg?stp=cp0_dst-jpg_e15_p480x480_q65&_nc_cat=108&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=7Frd6rtIIasAX8WuTAS&_nc_ht=scontent.fgye3-1.fna&oh=00_AT_lK9yGj0Gwi59ymUQfKkuspbV7oL28G1i_gGiMAJ8l0Q&oe=63536785" 
+   alt="foto nuestra" class"body__img
+   </figure>
+    <button id="heroButtonSi" class="hero__button"> Si mi amor </button>
+    <button id="heroButtonNo" class="hero__button"> No hay más opción querida ni intentas aplastar este NO</button>
+  </article>
+
+  <script src="./js/index.js" type="module"></script>
+</body>
+
+</html>
